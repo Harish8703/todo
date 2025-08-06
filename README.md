@@ -108,19 +108,19 @@ Below are some screenshots of the app in action:
 
 ### Home Page - Task List
 
-![Home Page - Task List](https://user-images.githubusercontent.com/Harish8703/sample1.jpg) <!-- Image 1 -->
+![Home Page - Task List](https://user-images.githubusercontent.com/Harish8703/Output Preview/1.jpeg) <!-- Image 1 -->
 
 ### Task Creation Modal
 
-![Task Creation Modal](https://user-images.githubusercontent.com/Harish8703/sample2.jpg) <!-- Image 2 -->
+![Task Creation Modal](https://user-images.githubusercontent.com/Harish8703/Output Preview/2.jpeg) <!-- Image 2 -->
 
 ### Task Editing Screen
 
-![Task Editing Screen](https://user-images.githubusercontent.com/Harish8703/sample3.jpg) <!-- Image 3 -->
+![Task Editing Screen](https://user-images.githubusercontent.com/Harish8703/Output Preview/3.jpeg) <!-- Image 3 -->
 
 ### Task Completed View
 
-![Task Completed View](https://user-images.githubusercontent.com/Harish8703/sample4.jpg) <!-- Image 4 -->
+![Task Completed View](https://user-images.githubusercontent.com/Harish8703/Output Preview/4.jpeg) <!-- Image 4 -->
 
 *(Note: Replace the links above with the actual image URLs or embed directly if storing images in your repo's public folder)*
 
