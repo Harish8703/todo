@@ -1,4 +1,4 @@
-# 📝 ToDo Application
+vv# 📝 ToDo Application
 
 A simple and effective **To-Do List Application** designed to help you manage and track your daily tasks with ease. Built using modern web technologies, this app provides an intuitive interface for task creation, editing, and deletion, with persistent storage powered by Supabase.
 
@@ -176,5 +176,7 @@ Open your browser and visit [http://localhost:3000](http://localhost:3000) to vi
 This To-Do Application provides a simple, effective way for users to manage their daily tasks using modern technologies like React, TypeScript, Tailwind CSS, and Supabase. It demonstrates a full-stack application with both frontend and backend integration, and is ready for further enhancements!
 
 ---
+##**“This project is a part of a hackathon run by
+https://www.katomaran.com ” **
 
 Made with ❤️ by [Harish8703](https://github.com/Harish8703)
