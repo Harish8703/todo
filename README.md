@@ -24,7 +24,6 @@ Stay organized and keep track of your daily tasks efficiently!
 | **Frontend**         | TypeScript, React, Tailwind CSS  |
 | **Backend**          | Supabase                         |
 | **Authentication**   | Supabase Auth                    |
-| **Deployment**       | Vercel or Netlify                |
 
 ---
 
@@ -93,16 +92,7 @@ cd todo
 npm install
 ```
 
-### 3. Set Up Supabase
-
-Create a `.env` file in the root directory and add your Supabase credentials:
-
-```ini
-VITE_SUPABASE_URL=your_supabase_url
-VITE_SUPABASE_KEY=your_supabase_key
-```
-
-### 4. Run the Application
+### 3. Run the Application
 
 ```bash
 npm run dev
