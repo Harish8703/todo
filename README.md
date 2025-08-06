@@ -104,23 +104,17 @@ Open your browser and visit [http://localhost:3000](http://localhost:3000) to vi
 
 ## 📸 Output Preview
 
-Below are some screenshots of the app in action:
-
 ### Home Page - Task List
-
-![Home Page - Task List](https://user-images.githubusercontent.com/Harish8703/OutputPreview/1.jpeg) <!-- Image 1 -->
+![Home Page - Task List](./OutputPreview/1.jpeg)
 
 ### Task Creation Modal
-
-![Task Creation Modal](https://user-images.githubusercontent.com/Harish8703/OutputPreview/2.jpeg) <!-- Image 2 -->
+![Task Creation Modal](./OutputPreview/2.jpeg)
 
 ### Task Editing Screen
-
-![Task Editing Screen](https://user-images.githubusercontent.com/Harish8703/OutputPreview/3.jpeg) <!-- Image 3 -->
+![Task Editing Screen](./OutputPreview/3.jpeg)
 
 ### Task Completed View
-
-![Task Completed View](https://user-images.githubusercontent.com/Harish8703/OutputPreview/4.jpeg) <!-- Image 4 -->
+![Task Completed View](./OutputPreview/4.jpeg)
 
 ---
 
