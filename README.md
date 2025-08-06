@@ -64,7 +64,7 @@ ToDoApp/
 
 - The app automatically adapts to different screen sizes for a seamless experience.
 
-## 📝 How to Run the Project
+### 📝 How to Run the Project
 git clone https://github.com/Harish8703/todo.git
 cd todo
 
