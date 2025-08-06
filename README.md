@@ -25,16 +25,18 @@ By building this application, users can easily keep track of their daily tasks a
 ## 📁 Project Structure
 
 ToDoApp/
-├── public/ # Static files
-├── src/ # Main source code for React app
-│ ├── components/ # React components for tasks, modals, etc.
-│ ├── App.tsx # Main app component
-│ ├── index.tsx # Entry point of the React app
-│ └── styles/ # Tailwind CSS files and custom styling
-├── supabase/ # Supabase client and integration files
-├── .gitignore # Git ignore file
-├── tailwind.config.ts # Tailwind CSS configuration
-├── postcss.config.js # PostCSS configuration
-├── vite.config.ts # Vite configuration for build and dev server
-├── package.json # Dependencies and scripts
-└── README.md # 📄 Documentation
+├── public/             # Static files  
+├── src/                # Main source code for React app  
+│   ├── components/     # React components for tasks, modals, etc.  
+│   ├── App.tsx         # Main app component  
+│   ├── index.tsx       # Entry point of the React app  
+│   └── styles/         # Tailwind CSS files and custom styling  
+├── supabase/           # Supabase client and integration files  
+├── .gitignore          # Git ignore file  
+├── tailwind.config.ts  # Tailwind CSS configuration  
+├── postcss.config.js   # PostCSS configuration  
+├── vite.config.ts      # Vite configuration for build and dev server  
+├── package.json        # Dependencies and scripts  
+└── README.md           # 📄 Documentation
+
+## 🛠 Features
