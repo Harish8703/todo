@@ -21,7 +21,7 @@ Stay organized and keep track of your daily tasks efficiently!
 
 | **Layer**            | **Technology Used**              |
 |----------------------|----------------------------------|
-| **Frontend**         | TypeScript, React, Tailwind CSS  |
+| **Frontend**         | TypeScript, React Native, Tailwind CSS  |
 | **Backend**          | Supabase                         |
 | **Authentication**   | Supabase Auth                    |
 
