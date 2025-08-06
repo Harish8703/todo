@@ -46,6 +46,49 @@ ToDoApp/
 ├── package.json           # Dependencies and scripts
 └── README.md              # Documentation
 ```
+### Architecture Diagram
+
+```plaintext
+              +-------------------+
+              |    User Device    |
+              | (Web/Mobile App)  |
+              +-------------------+
+                        |
+                        V
+      +--------------------------------------------+
+      |            Frontend (React Native)         |
+      |  - Task List UI                            |
+      |  - Task Creation/Edit/Delete Modals        |
+      |  - Authentication Screens                  |
+      |  - Tailwind CSS for Styling                |
+      +--------------------------------------------+
+                        |
+                        V
++---------------------------------------------------------------+
+|                  Supabase Backend (Cloud)                     |
+|                                                               |
+|  +-------------------+    +-------------------------------+   |
+|  | Authentication    |    |  Database (Postgres)          |   |
+|  | (Supabase Auth)   |    |  - tasks table                |   |
+|  | - Sign Up/Login   |    |  - user_id FK                 |   |
+|  +-------------------+    +-------------------------------+   |
+|           |                              |                   |
+|           |                              |                   |
+|           +-------------------+----------+                   |
+|                               |                              |
+|                   +--------------------------+               |
+|                   | Supabase Client (API)    |               |
+|                   |  - CRUD operations       |               |
+|                   |  - Auth session mgmt     |               |
+|                   +--------------------------+               |
++---------------------------------------------------------------+
+                        |
+                        V
+               Persistent Storage for Tasks
+               (User-specific, secure)
+
+```
+
 
 ---
 
