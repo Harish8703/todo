@@ -31,6 +31,7 @@ Stay organized and keep track of your daily tasks efficiently!
 
 ```
 ToDoApp/
+├── OutputPreview          # Images of the OutputPreview
 ├── public/                # Static files
 ├── src/                   # Main source code for React app
 │   ├── components/        # React components for tasks, modals, etc.
