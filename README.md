@@ -65,10 +65,6 @@ ToDoApp/
 - The app automatically adapts to different screen sizes for a seamless experience.
 
 ## 📝 How to Run the Project
-
-### 1. Clone the Repository
-
-```bash
 git clone https://github.com/Harish8703/todo.git
 cd todo
 
