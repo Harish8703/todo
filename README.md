@@ -15,12 +15,12 @@ By building this application, users can easily keep track of their daily tasks a
 
 ## 🔧 Technology Stack
 
-| **Layer**            | **Technology Used**          |
-|----------------------|------------------------------|
+| Layer               | Technology Used    |
+|---------------------|--------------------|
 | **Frontend**         | TypeScript, React, Tailwind CSS |
-| **Backend**          | Supabase                     |
-| **Authentication**   | Supabase Auth                |
-| **Deployment**       | Vercel or Netlify            |
+| **Backend**          | Supabase           |
+| **Authentication**   | Supabase Auth      |
+| **Deployment**       | Vercel or Netlify |
 
 ## 📁 Project Structure
 
@@ -40,3 +40,34 @@ ToDoApp/
 └── README.md           # 📄 Documentation
 
 ## 🛠 Features
+
+- **Task Management**: Create, read, update, and delete tasks.  
+- **User Authentication**: Users can sign up and log in securely using Supabase Auth.  
+- **Responsive Design**: The app works well on both desktop and mobile devices.  
+- **Persistent Storage**: Tasks are saved in Supabase for persistence across sessions.
+
+## 🤖 Functionality
+
+### Task Operations
+
+- **Create Task**: Add tasks by providing a title and description.  
+- **Edit Task**: Edit existing tasks to update details.  
+- **Delete Task**: Remove tasks when no longer needed.  
+- **Complete Task**: Mark tasks as completed with a simple toggle.
+
+### Authentication
+
+- Users can register and log in using Supabase Auth for secure authentication.  
+- Once logged in, users can view and manage only their own tasks.
+
+### Responsive Design
+
+- The app automatically adapts to different screen sizes for a seamless experience.
+
+## 📝 How to Run the Project
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Harish8703/todo.git
+cd todo
