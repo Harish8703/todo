@@ -71,3 +71,40 @@ ToDoApp/
 ```bash
 git clone https://github.com/Harish8703/todo.git
 cd todo
+
+### 2. Install Dependencies
+
+Install both frontend and backend dependencies:
+
+```bash
+npm install
+
+
+### 3. Set Up Supabase
+
+Create a `.env` file in the root directory and add your Supabase credentials:
+
+```ini
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_KEY=your_supabase_key
+
+### 4. Run the Application
+
+Start the development server:
+
+```bash
+npm run dev
+
+Now, open your browser and visit http://localhost:3000 to view the To-Do app in action!
+
+🔮 Future Work
+Implement task categorization with color-coding.
+
+Add a task reminder feature using notifications.
+
+Enhance security with email verification and password recovery features.
+
+Integrate real-time updates using Supabase subscriptions.
+
+🏁 Conclusion
+This To-Do Application provides a simple, effective way for users to manage their daily tasks using modern technologies like React, TypeScript, Tailwind CSS, and Supabase for backend functionality. The project demonstrates a full-stack application with both frontend and backend integration.
